@@ -19,7 +19,9 @@ console.log("Adding more live coding sessions and opportunities for interactive 
 // 3. Write a console.log() statement that answers the following question: Did you learn
 // what you expected to learn in this course?
 
+// This statement is asking if the course met your learning expectations
 console.log("Did you learn what you expected to learn in this course?");
+//answer
 console.log("The course covered both foundational and advanced topics beyond my expectations");
 
 // 4. Write a console.log() statement that answers the following question: What concepts
