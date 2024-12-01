@@ -26,9 +26,10 @@ console.log("The course covered both foundational and advanced topics beyond my 
 
 // 4. Write a console.log() statement that answers the following question: What concepts
 // were new to you and what concepts had you encountered already in the past?
-
+// This statement is asking which concepts were new and which ones you were already familiar with
 console.log(
   "What concepts were new to you and what concepts had you encountered already in the past?"
 );
+//answer
 console.log("New topics included asynchronous programming and complex data structures,loops and conditionals.");
 
